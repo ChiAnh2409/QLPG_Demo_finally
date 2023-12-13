@@ -41,8 +41,8 @@ Giao diện trang quản lý
   - Trang quản lý của CSKH: <img width="471" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/776cec64-53dd-47c8-bf44-42055a8dfbbb">
   - Bảng doanh thu theo từng tháng: <img width="304" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/dd215f80-ad99-445a-ad6d-1aefb19db823">
 
- + Thông tin quan trọng:
-   <img width="472" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_fifth/assets/118975118/5689925e-552f-43c5-9ee5-f2ea5e0fe0de">
+  - Thông tin quan trọng: <img width="472" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_fifth/assets/118975118/5689925e-552f-43c5-9ee5-f2ea5e0fe0de">
+  
 Giao diện trang quản lý gói tập 
 Giao diện trang Đăng Ký Gói Tập ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/8063f893-3d77-4f51-a3a4-80fb829636ba)
 Giao diện trang quản lý Thành Viên ![image](https://github.com/ChiAnh2409/QLPG_Demo_second/assets/118975118/a3155311-d8d4-4866-a1ae-27d47654ff2d)
