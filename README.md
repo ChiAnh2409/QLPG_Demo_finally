@@ -36,14 +36,10 @@ Giao diện login
 ![image](https://github.com/ChiAnh2409/QLPG_Demo_fisrt/assets/118975118/5d47ceaa-959b-4c3e-8420-466691089a8b)
 
 Giao diện trang quản lý 
-  + Thông tin quản lý: 
-
-  + Trang quản lý của lễ tân:<img width="464" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/655620f1-a322-4dd0-94e5-3dbeece7384b">
-<img width="471" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/776cec64-53dd-47c8-bf44-42055a8dfbbb">
- + Trang quản lý của CSKH:
-    
- <img width="304" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/dd215f80-ad99-445a-ad6d-1aefb19db823">
- + Bảng doanh thu theo từng tháng: <img width="471" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/b15e0ea8-3229-4ef6-b608-b7f774e80cf2">
+  + Thông tin quản lý: <img width="464" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/655620f1-a322-4dd0-94e5-3dbeece7384b">
+  + Trang quản lý của lễ tân:   <img width="471" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/b15e0ea8-3229-4ef6-b608-b7f774e80cf2">
+ + Trang quản lý của CSKH: <img width="471" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/776cec64-53dd-47c8-bf44-42055a8dfbbb">
+ + Bảng doanh thu theo từng tháng: <img width="304" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_finally/assets/118975118/dd215f80-ad99-445a-ad6d-1aefb19db823">
 
  + Thông tin quan trọng:
    <img width="472" alt="image" src="https://github.com/ChiAnh2409/QLPG_Demo_fifth/assets/118975118/5689925e-552f-43c5-9ee5-f2ea5e0fe0de">
